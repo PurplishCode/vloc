@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "59289691108",
+    "firebase_url": "https://virtualocation-30cea-default-rtdb.firebaseio.com",
+    "project_id": "virtualocation-30cea",
+    "storage_bucket": "virtualocation-30cea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59289691108:android:5227117e2beda145251df1",
+        "android_client_info": {
+          "package_name": "com.example.vloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmhT92McsAHM9YDlrn9bKFkNAlUodOeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
